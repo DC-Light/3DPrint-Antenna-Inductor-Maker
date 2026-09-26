@@ -1,0 +1,4 @@
+numpy>=1.24.0
+pyvista>=0.40.0
+vtk>=9.2.0
+pillow>=9.5.0
